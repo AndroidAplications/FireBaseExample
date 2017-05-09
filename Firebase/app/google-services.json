@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625748310855",
+    "firebase_url": "https://appteatre-3b960.firebaseio.com",
+    "project_id": "appteatre-3b960",
+    "storage_bucket": "appteatre-3b960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625748310855:android:2d518a8e18b7d0b8",
+        "android_client_info": {
+          "package_name": "androidaplications.pablolaiz.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625748310855-vbaq40mfaod46b3hiaosldhpp4hcinor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "androidaplications.pablolaiz.firebase",
+            "certificate_hash": "0f7b08bdf4191dddf5fb9bd93516c39f031d4946"
+          }
+        },
+        {
+          "client_id": "625748310855-qnqsi6jedp46fn6rj23g7s7hjp75todq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDkK5UR0rU2-tQ8k3j6zLNUnNXityDUcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625748310855-qnqsi6jedp46fn6rj23g7s7hjp75todq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
